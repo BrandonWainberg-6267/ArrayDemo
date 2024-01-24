@@ -5,7 +5,7 @@
 package arraydemo;
 
 /**
- *
+ *added nothing for redundancies 
  * @author bmw26
  */
 public class ArrayDemo {
